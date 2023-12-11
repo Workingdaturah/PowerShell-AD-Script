@@ -3,6 +3,7 @@ PowerShell Scripts for Enumeration on AD and Local Hosts
 
 Scripts can be imported or execute in memory:
 
+```
 PS C:\> .\whoami-NET.ps1
 User Name: DESKTOP-DER3566\Daturah
 Authentication Type: NTLM
@@ -21,3 +22,4 @@ Groups:
   NT AUTHORITY\Local account
   LOCAL
   NT AUTHORITY\NTLM Authentication
+```
