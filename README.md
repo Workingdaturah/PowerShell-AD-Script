@@ -2,7 +2,7 @@
 PowerShell Scripts for Enumeration on AD and Local Hosts
 
 Scripts can be imported or execute in memory:
-Some scripts do not take parameters and just output infomration
+Some scripts do not take parameters and just output information
 
 ```
 PS C:\> .\whoami-NET.ps1
