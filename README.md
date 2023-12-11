@@ -1,4 +1,4 @@
-# PowerShell-AD-Script
+# PowerShell-AD-Script-Recon
 PowerShell Scripts for Enumeration on AD and Local Hosts
 
 Scripts can be imported or execute in memory:
